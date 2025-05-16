@@ -8,7 +8,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 # Настройки
-API_KEY = "e90c319d2e267a32d287e9a8a50d3eda"  # Вставь свой API-ключ
+API_KEY = "YOUR_API_KEY"  # Вставь свой API-ключ
 CITIES = ["Moscow", "London", "Tokyo"]
 DB_NAME = "weather.db"
 
